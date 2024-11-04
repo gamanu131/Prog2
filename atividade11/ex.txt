@@ -1,0 +1,33 @@
+
+    Exercício 1:
+    a) O que significa a eficiência de tempo de um algoritmo.
+A eficiência do tempo do algoritmo se refere à quantidade de tempo que um algoritmo leva para rodar em função do tamanho
+de sua entrada.
+
+    b) Quais as grandezas físicas que influenciam a eficiência de tempo de um
+    algoritmo na prática.
+Limitações técnicas do computador, como a velocidade do clock, latência e largura da banda de memória, velocidade da cache,
+arquitetura, armazenamento, temperatura e energia.
+
+    c) Quais dessas grandezas nós realmente utilizamos para expressar a eficiência
+    de tempo de um algoritmo, utilizando-as para o nosso modelo de computação?
+Utilizamos as grandezas que são diretamente relacionadas ao processamento do computador.
+
+    d) De quais nós abstraímos e por quê ?
+Nos abstraímosd das grandezas relacionadas a fatores externos ao computador.
+
+    e) Que notação utilizamos na prática para expressar a complexidade de tempo
+    de um algoritmo ?
+Geralmente utilizamos notação Big O, small O, big omega ou big theta.
+
+
+    Exercício 2:
+    A notação Big O utiliza o tamanho da entrada para calcular a complexidade do algoritmo.
+
+    Exercício 3:
+    A complexidade do algoritmo é O(n⁴).
+
+    Exercício 4:
+    a complexidade é:   
+    Melhor caso: O(1).
+    Pior caso: O(m), onde m=n−l+1.
